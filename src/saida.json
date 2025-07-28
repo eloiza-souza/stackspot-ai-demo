@@ -1,0 +1,17 @@
+
+  {
+  "title": "GenerateTests",
+  "type": "object",
+  "properties": {
+    "summary": {
+      "type": "string",
+      "title": "Summary"
+    },
+    "results": {
+      "type": "string",
+      "title": "Results"
+    }
+  },
+  "required": ["summary", "results"]
+}
+
